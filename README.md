@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##MyWork
+
+#Details
+
+Created Listeners for commentwritten and lessonwatched event. Created Achievementunlocked and badgeunlocked events and corresponding listeners Created file achievements in config folder with some constants used in the programme
+
+Test files are in Test/Unit
